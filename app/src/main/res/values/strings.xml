@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstaDP</string>
+    <string name="help">1: Goto Profile of person in instagram APP\n2: Select 3 DOTS\n3: Select Copy Profile URL\n4: open this App and click Paste\n5: Click Download\n6: Image will be downloaded in instaDP folder.\n7: You can directly type the username too.</string>
+</resources>
